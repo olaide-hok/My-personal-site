@@ -48,6 +48,14 @@ a:hover {
   color: #EAF6F6;
 }
 
+.uni_webpage {
+  color: #11999E;
+
+}
+.uni_webpage:hover {
+  color:  #246b75;
+}
+
 .skill-row {
   margin: 100px auto 100px auto;
   text-align: justify;
